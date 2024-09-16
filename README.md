@@ -42,4 +42,4 @@ Assurez-vous d'avoir les éléments suivants installés :
    cd palu-care
 
 ### Auteurs
- **Georges KAPUTU  - Développeur principal et data engineer.
+ **Georges KAPUTU**  - Développeur principal et data engineer.
