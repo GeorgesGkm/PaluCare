@@ -40,3 +40,6 @@ Assurez-vous d'avoir les éléments suivants installés :
    ```bash
    git clone https://github.com/votre-utilisateur/palu-care.git
    cd palu-care
+
+### Auteurs
+ **Georges KAPUTU  - Développeur principal et data engineer.
